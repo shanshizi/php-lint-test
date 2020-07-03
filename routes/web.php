@@ -14,10 +14,50 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get(
-    '/', function () {
+    '/',
+    function () {
         return view('welcome');
-]]]]]]]]]!@#!@#{{{{{{}}}}}}    }
-);;;;;;;;lllllllll;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    ]]]]]]]]]!@#!@#{{{{{{}}}}}}    }
+);
+;
+;
+;
+;
+;
+;
+;
+lllllllll;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
 
 sdfsdf
 kdsfsdsfsfsd
